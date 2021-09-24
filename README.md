@@ -1,1 +1,0 @@
-# Risk_Score_Model_for_Diabetes_Patients
